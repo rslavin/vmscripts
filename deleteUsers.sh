@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-# Delets student users from "Summary Faculty Class List" in asap.
+# Deletes student users from "Summary Faculty Class List" in asap.
 # Just copy the entire table directly from the web page to a file
 # and pass it as the first argument.
 
